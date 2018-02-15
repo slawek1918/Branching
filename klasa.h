@@ -1,0 +1,1 @@
+/*Tutaj bedzie klasa sobie zaimplementowana*/

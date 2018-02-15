@@ -1,1 +1,1 @@
-Zabawa z ga³êziami
+Zabawa z galeziami
