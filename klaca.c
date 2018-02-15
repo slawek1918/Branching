@@ -1,0 +1,1 @@
+#define zmienna 5
